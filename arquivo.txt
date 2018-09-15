@@ -1,3 +1,10 @@
-Minha primeira alteração no projeto
+teste de inclusao Minha primeira alteração no projeto
 
-modificado
+linha do meio
+
+
+linha do final
+
+modificado foi pra ultima linha
+
+teste de alteracao
